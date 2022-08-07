@@ -4,4 +4,4 @@ certified weeb
 <br />
 game dev hobbiest
 <br />
-i code js-ts / cpp - c / py
+i code ts - cpp - rs - py
