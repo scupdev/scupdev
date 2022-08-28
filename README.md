@@ -1,4 +1,4 @@
-ceo of finx
+ceo of chessX
 <br />
 certified weeb
 <br />
