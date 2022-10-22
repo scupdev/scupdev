@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=cpp,rust,cmake,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,neovim)](https://skillicons.dev)
